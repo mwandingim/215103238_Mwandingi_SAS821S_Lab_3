@@ -1,0 +1,11 @@
+risk_rank;date;risk_probability;risk_probability_pct;risk_flag_0_31;failed_remote_logins;new_external_ips;suspicious_dns_queries;critical_vulnerabilities;mean_patch_age_days;high_severity_edr_alerts;ot_scan_attempts;high_relevance_threat_reports;vendor_access_sessions;after_hours_admin_actions;
+1;46312;1900-01-01;10000,0000%;TRUE;FALSE;15;50;9;74;13,0;23;13;2;7;
+2;46311;1900-01-01;10000,0000%;TRUE;FALSE;14;38;9;85;11,0;13;12;13;6;
+3;46314;1900-01-01;9999,9999%;TRUE;FALSE;12;28;13;92;12,0;9;8;8;8;
+4;46310;1900-01-01;9999,9959%;TRUE;FALSE;8;35;8;62;5,0;11;6;8;7;
+5;46313;1900-01-01;9999,9910%;TRUE;FALSE;10;25;10;97;4,0;4;12;12;6;
+6;46309;1900-01-01;9999,9612%;TRUE;FALSE;6;21;10;76;8,0;10;5;6;8;
+7;46306;1900-01-00;9915,5097%;TRUE;FALSE;2;18;9;72;8,0;4;5;7;4;
+8;46308;1900-01-00;9795,9154%;TRUE;FALSE;4;17;8;62;7,0;1;3;7;4;
+9;46307;1900-01-00;9155,1034%;TRUE;FALSE;4;13;10;74;5,0;1;0;5;7;
+10;46305;1900-01-00;6771,8626%;TRUE;FALSE;6;11;7;72;5,0;0;3;3;2;

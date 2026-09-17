@@ -1,0 +1,6 @@
+scenario_id;scenario_name;iterations;probability_reaching_ot;probability_reaching_safety_zone;mean_critical_assets_infected;mean_total_assets_infected;median_time_to_ot_steps;p95_total_assets_infected;ot_absolute_risk_reduction;ot_relative_risk_reduction_pct;safety_absolute_risk_reduction;safety_relative_risk_reduction_pct
+S0;Current controls;1 000;33,5%;10,2%;5,077;7,253;4,0;20,0;0,0%;0,0%;0,0%;0,0%
+S1;Patch vendor path;1 000;4,8%;1,5%;1,013;2,187;4,0;6,0;28,7%;85,7%;8,7%;85,3%
+S2;Strengthen OT segmentation;1 000;1,7%;0,0%;1,843;3,116;5,0;7,0;31,8%;94,9%;10,2%;100,0%
+S3;Rapid EDR isolation;1 000;21,9%;2,1%;2,887;4,428;4,0;13,0;11,6%;34,6%;8,1%;79,4%
+S4;Combined controls;1 000;0,3%;0,0%;0,606;1,659;4,0;5,0;33,2%;99,1%;10,2%;100,0%

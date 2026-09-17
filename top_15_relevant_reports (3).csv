@@ -1,0 +1,16 @@
+rank;report_id;published_at;source;title;predicted_relevance_probability;key_terms
+1;TRN03008;2026-01-04;Open-source Research;Vendor access abused in OT intrusion;96,7%;vendor, vendor access, access, southern, southern africa
+2;TRN03133;2026-08-03;Open-source Research;Industrial protocol reconnaissance observed;96,4%;vendor, southern, southern africa, industrial, vendor access
+3;TRN03163;2026-02-22;Vendor Advisory;Vendor access abused in OT intrusion;95,9%;vendor, infrastructure, activity, industrial, access
+4;TRN03096;2025-06-30;Open-source Research;Vendor access abused in OT intrusion;95,7%;vendor, vendor access, access, southern, southern africa
+5;TRN03158;2025-08-08;Commercial Intelligence;Campaign targets industrial operators;95,5%;vendor, actor, industrial, example, campaign
+6;TRN03084;2025-06-22;Open-source Research;Campaign targets industrial operators;95,1%;vendor, industrial, access, vendor access, example
+7;TRN03142;2025-10-05;Regional ISAC;Campaign targets industrial operators;95,1%;vendor, actor, industrial, example, campaign
+8;TRN03089;2025-12-15;Regional ISAC;Campaign targets industrial operators;95,0%;vendor, actor, unknown actor, industrial, vendor access
+9;TRN03092;2026-04-25;Vendor Advisory;Campaign targets industrial operators;95,0%;industrial, campaign, powershell, vendor, activity
+10;TRN03159;2025-11-13;Commercial Intelligence;Industrial protocol reconnaissance observed;95,0%;vendor, actor, industrial, example, scanning
+11;TRN03106;2025-04-10;Open-source Research;Industrial protocol reconnaissance observed;94,8%;unknown, vendor, actor, unknown actor, industrial
+12;TRN03139;2026-03-24;Open-source Research;Industrial protocol reconnaissance observed;94,8%;vendor, industrial, vendor access, access, example
+13;TRN03037;2025-11-27;Commercial Intelligence;Energy-sector malware activity;94,8%;vendor, activity, access, vendor access, example
+14;TRN03017;2025-05-06;Commercial Intelligence;Energy-sector malware activity;94,1%;vendor, activity, actor, example, dns tunnelling
+15;TRN03109;2026-05-08;Vendor Advisory;Campaign targets industrial operators;94,1%;industrial, campaign, activity, example, dns
